@@ -1,0 +1,5 @@
+a.foo
+*.cat
+!final.cat
+
+
